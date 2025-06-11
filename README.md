@@ -26,7 +26,7 @@ Este projeto utiliza visão computacional para detectar gestos de mãos em víde
 3. **Executando o programa:**
 - No terminal, navegue até a pasta do projeto:
   ```
-  cd "c:\Users\JeanSilva\Documents\GS - IOT"
+  cd "c:\Users\{User}\...\GS - IOT"
   ```
 - Execute o script principal:
   ```
